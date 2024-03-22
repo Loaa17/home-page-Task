@@ -1,0 +1,107 @@
+.cover{
+    text-align: center;
+    background-image: url(./images/drew-coffman-1872.jpg);
+    padding: 40px;
+    color: white;
+    
+}
+
+a{
+    color: white;
+}
+
+.cont-form{
+    float: left;
+    width: 40%;
+
+}
+
+.form {
+    width: 100%;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+input{
+    width: 49%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #f7f7f7;
+    
+    border: 2px solid #e8e3e3;
+    
+}
+
+.sub{
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #f7f7f7;
+    
+    border: 2px solid #e8e3e3;
+}
+
+.txt{
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+    background: #f7f7f7;
+    
+    border: 2px solid #e8e3e3;
+}
+
+button{
+    background-color: #8e7754;
+    color: #f7f7f7;
+    border: #f7f7f7 1px;
+    border-radius: 5px ;
+    padding: 15px;
+}
+
+.contact-info{
+    width: 48%;
+    float: right;
+}
+
+.cont-info{
+    display: inline-block;
+}
+
+.c-info img{
+    background-color:  #8e7754;
+    width: 5%;
+    
+    vertical-align:middle;
+    border-radius: 80px;
+}
+
+.c-info p{
+    display: inline-block;
+}
+
+.cont{
+    font-size: 30px;
+}
+
+.cont-info h3{
+    font-size: 20px;
+}
+
+.cont-info p{
+    font-size: larger;
+}
+
+
+
+
+
+.clear-fix{
+    clear: both;
+}
